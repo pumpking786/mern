@@ -1,3 +1,30 @@
+let act="add"
+
+// if(act==="add"){
+// //block of code
+// }else if(act==="update"){
+//     //block of code
+// }else if(act==="delete"){
+// //block of code
+// }else{
+// //block of code
+// }
+
+switch(act){
+    case "add":
+        //code block
+        break;
+    case "update":
+        //code block
+        break;
+    case "delete":
+        //code block
+        break;
+    default:
+        //code block 
+        break;
+}
+
 //Electricty fare
 // 0-20=80
 // 20-30=per unit 5
